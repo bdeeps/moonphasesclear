@@ -1,0 +1,114 @@
+{
+  "slug": "moonphasesclear",
+  "box": 248,
+  "date": "2026-12-15",
+  "title": "MoonPhasesClear",
+  "question": "Why does the Moon change shape?",
+  "hook": "The Moon never changes shape. The Sun always lights exactly half of it, and what changes is how much of that half faces you. Turn the Moon round its orbit, watch it rise from any latitude, and see why a crescent smiles near the equator.",
+  "thumbText": "WHY THE MOON CHANGES",
+  "field": "space",
+  "minutes": 15,
+  "tags": [
+    "moon",
+    "moon phases",
+    "lunar phases",
+    "crescent",
+    "full moon",
+    "synodic month",
+    "tidal locking",
+    "libration",
+    "earthshine",
+    "supermoon",
+    "lunar calendar",
+    "space",
+    "astronomy",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Always half lit",
+      "text": "The Moon makes no light. Sunlight always lights one half of it, like any ball in sunshine. The phases are how much of that lit half is turned towards Earth: none at new moon, half at the quarters, all of it at full moon."
+    },
+    {
+      "title": "Eight names, one cycle",
+      "text": "From new moon the lit part grows (waxing) through crescent, first quarter and gibbous to full, then shrinks (waning) through gibbous, last quarter and crescent. The share of the disc lit is (1 − cos e) ÷ 2, where e is the Sun–Moon angle in our sky."
+    },
+    {
+      "title": "Two kinds of month",
+      "text": "The Moon goes once round Earth against the stars in about 27.3 days. But Earth moves round the Sun meanwhile, so the phases repeat only every 29.5 days on average."
+    },
+    {
+      "title": "Each phase keeps its hours",
+      "text": "The Moon rises on average about 50 minutes later each day. A full moon rises at sunset, a first quarter is high at sunset, and a last quarter hangs in the morning sky. Near the equator an evening crescent lies on its back, and south of the equator the Moon looks turned round."
+    },
+    {
+      "title": "The same face",
+      "text": "The Moon spins once per orbit, so the same side always faces us. A slow wobble called libration lets us see about 59% of its surface over time. The faint glow on a crescent's dark part is earthshine, sunlight bounced off Earth."
+    },
+    {
+      "title": "Not Earth's shadow",
+      "text": "The phases are not Earth's shadow, which reaches the Moon only in a lunar eclipse. Supermoons are full moons near the closest point of the orbit. Twelve lunar months make about 354 days, which is why the Islamic calendar moves through the seasons and lunisolar calendars add leap months."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Phase",
+      "def": "The shape of the sunlit part of the Moon as seen from Earth."
+    },
+    {
+      "term": "Terminator",
+      "def": "The line between day and night on the Moon."
+    },
+    {
+      "term": "Waxing and waning",
+      "def": "Growing towards full moon, and shrinking back towards new moon."
+    },
+    {
+      "term": "Gibbous",
+      "def": "More than half lit but not yet full."
+    },
+    {
+      "term": "Synodic month",
+      "def": "New moon to new moon, about 29.53 days on average."
+    },
+    {
+      "term": "Sidereal month",
+      "def": "One lap of the Moon against the stars, about 27.32 days."
+    },
+    {
+      "term": "Tidal locking",
+      "def": "Spinning once per orbit, so the same face always points at the planet."
+    },
+    {
+      "term": "Libration",
+      "def": "An apparent wobble that shows us about 59% of the Moon's surface over time."
+    },
+    {
+      "term": "Earthshine",
+      "def": "Sunlight reflected by Earth that faintly lights the Moon's night side."
+    },
+    {
+      "term": "Lunisolar calendar",
+      "def": "A calendar of lunar months that adds leap months to stay in step with the seasons."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "moonphasesclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

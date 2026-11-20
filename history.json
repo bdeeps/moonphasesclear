@@ -1,0 +1,1037 @@
+{
+  "title": "The history of the Moon's phases",
+  "tagline": "From notched bones and a bronze sky disc to lunar calendars, telescope maps and landers on the far side.",
+  "intro": "People have counted the Moon's changing shape for thousands of years, long before they could explain it. Calendars from Babylon to China, India and the Islamic world are built on its cycle. Thinkers worked out that the Moon shines with borrowed sunlight, and that Earth lights it too. Telescopes mapped one face, and spacecraft finally showed the other. Some early claims are debated, and this history says so.",
+  "eras": [
+    {
+      "id": "count",
+      "name": "Counting the Moon",
+      "from": -20000,
+      "to": -1500,
+      "color": "#c49bff",
+      "summary": "Notched bones, cave signs and a bronze disc hint that early people watched the Moon change. How much they counted is debated."
+    },
+    {
+      "id": "calendars",
+      "name": "Calendars and cycles",
+      "from": -700,
+      "to": 1200,
+      "color": "#ffb547",
+      "summary": "Babylonian, Greek, Indian, Chinese, Jewish, Islamic and Maya calendars turn the Moon's cycle into months, festivals and tables."
+    },
+    {
+      "id": "light",
+      "name": "Explaining the light",
+      "from": -450,
+      "to": 1800,
+      "color": "#ff7a59",
+      "summary": "Thinkers in Greece, India, Italy and China explain that the Moon shines by sunlight, and that Earth lights its dark side."
+    },
+    {
+      "id": "maps",
+      "name": "Mapping with telescopes",
+      "from": 1609,
+      "to": 1935,
+      "color": "#5ce1a9",
+      "summary": "Telescopes reveal mountains, a slow wobble and thousands of craters, and astronomers agree on one set of names."
+    },
+    {
+      "id": "going",
+      "name": "Going there",
+      "from": 1959,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Spacecraft photograph the far side, people orbit and land, and new missions reach the far side and the south pole."
+    }
+  ],
+  "events": [
+    {
+      "year": -20000,
+      "date": "c. 20,000–18,000 BCE (dating debated)",
+      "era": "count",
+      "art": "plate",
+      "title": "The Ishango bone: tally marks or a Moon count? (debated)",
+      "who": "Unknown makers; found by Jean de Heinzelin",
+      "where": "Ishango, near the Semliki River",
+      "country": "Democratic Republic of the Congo",
+      "text": "A bone tool covered in carved notches was found at Ishango in 1950. Its age is uncertain, with the site now placed around 20,000 to 18,000 BCE. Alexander Marshack argued the notches track six lunar months. Critics say he searched for patterns without really testing the idea.",
+      "why": "It is one of the oldest objects people have linked to counting the Moon, though the link is unproven.",
+      "box": "phases",
+      "sources": [
+        45
+      ]
+    },
+    {
+      "year": -20000,
+      "date": "Ice Age (Upper Palaeolithic); claim published 2023, disputed",
+      "era": "count",
+      "art": "night",
+      "title": "Dots beside cave animals: a lunar calendar? (disputed)",
+      "who": "Bennett Bacon and colleagues; critics April Nowell, Paul Bahn and Jean-Loïc Le Quellec",
+      "where": "Caves such as Lascaux, Chauvet and Altamira",
+      "country": "France and Spain",
+      "text": "Hundreds of Ice Age caves in Europe hold dots, lines and other signs. A 2023 study argued that dots and lines next to animal images count lunar months from spring. A 2024 reply in the same journal found serious weaknesses and rejected the claim.",
+      "why": "It shows how hard it is to prove that early people tracked the Moon, and how such claims get tested.",
+      "box": "phases",
+      "sources": [
+        43,
+        44
+      ]
+    },
+    {
+      "year": -1600,
+      "date": "c. 1600 BCE (about 3,600 years old)",
+      "era": "count",
+      "art": "ball",
+      "key": true,
+      "title": "The Nebra sky disc shows a crescent Moon",
+      "who": "Bronze Age people of central Europe",
+      "where": "Mittelberg hill, near Nebra",
+      "country": "Germany",
+      "text": "This bronze disc with gold shapes is about 3,600 years old. It shows the Sun or a full Moon, a crescent Moon and 32 stars, seven of them clustered like the Pleiades. Looters dug it up in 1999 and police recovered it in 2002. One reading, debated, says it encodes a rule for adding a leap month.",
+      "why": "It is the oldest known concrete picture of the sky, with the Moon's changing shape at its centre.",
+      "box": "phases",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": -652,
+      "date": "652/651 BCE to 61/60 BCE",
+      "era": "calendars",
+      "art": "plate",
+      "title": "Babylon keeps a diary of the Moon",
+      "who": "Babylonian scribes",
+      "where": "Babylon, Mesopotamia",
+      "country": "Iraq",
+      "text": "Babylonian scribes kept astronomical diaries on clay tablets. They logged the Moon's position day by day, including the gap between sunset and moonrise. The oldest surviving tablet is from 652/651 BCE and the youngest from 61/60 BCE.",
+      "why": "Centuries of careful notes let later astronomers find the Moon's cycles.",
+      "box": "rise",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": -450,
+      "date": "5th century BCE",
+      "era": "light",
+      "art": "eye",
+      "key": true,
+      "title": "Anaxagoras: the Moon shines with borrowed light",
+      "who": "Anaxagoras",
+      "where": "Athens, Greece",
+      "country": "Greece",
+      "text": "Anaxagoras said the Moon shines by reflecting light from the Sun. It is the first such claim on record. He also explained eclipses as one body blocking another. He was put on trial in Athens, partly for saying the Sun was not a god.",
+      "why": "If moonlight is sunlight, the phases are just how much of the lit side we can see.",
+      "box": "lit",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": -432,
+      "date": "432 BCE (epoch uncertain); Babylonian use from the late 6th century BCE",
+      "era": "calendars",
+      "art": "scroll",
+      "key": true,
+      "title": "The 19-year cycle: 235 months fit 19 years",
+      "who": "Meton of Athens, after Babylonian astronomers",
+      "where": "Athens, Greece; Babylon",
+      "country": "Greece",
+      "text": "Nineteen years hold almost exactly 235 lunar months, so the Moon's phases return to the same dates. Babylonian astronomers used this 19-year cycle from the late 6th century BCE. Meton brought it to Athens, and Ptolemy's data place his solstice observation in 432 BCE, though the exact year is uncertain.",
+      "why": "It lets a calendar follow the Moon and still keep in step with the seasons.",
+      "box": "phases",
+      "sources": [
+        8,
+        46,
+        11
+      ]
+    },
+    {
+      "year": -400,
+      "date": "last centuries BCE (tradition possibly older; debated)",
+      "era": "calendars",
+      "art": "scroll",
+      "title": "The Vedanga Jyotisha counts tithis",
+      "who": "Lagadha (traditional author)",
+      "where": "India",
+      "country": "India",
+      "text": "This short Sanskrit verse text gives rules for timing Vedic rituals. It uses a five-year cycle of 62 lunar months, two of them extra. It splits each lunar month into 30 tithis. Scholars disagree on its date, with most placing the text in the last centuries BCE.",
+      "why": "The tithi, a thirtieth of a Moon cycle, still shapes Hindu festival dates.",
+      "box": "myths",
+      "sources": [
+        49,
+        10
+      ]
+    },
+    {
+      "year": -350,
+      "date": "4th century BCE",
+      "era": "light",
+      "art": "scroll",
+      "title": "Aristotle: the phases show a ball, the shadow shows a round Earth",
+      "who": "Aristotle",
+      "where": "Athens, Greece",
+      "country": "Greece",
+      "text": "In On the Heavens, Aristotle noted that the waxing and waning Moon is mostly crescent or gibbous, and half full only for a moment. That fits a ball lit from one side. He added that Earth must be round, because its shadow on the Moon in an eclipse always has a curved edge.",
+      "why": "It used the Moon's shapes as evidence about the shapes of worlds.",
+      "box": "lit",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": -104,
+      "date": "104 BCE",
+      "era": "calendars",
+      "art": "compass",
+      "title": "China's Taichu calendar sets the month by the new Moon",
+      "who": "Astronomers of Emperor Wu of Han",
+      "where": "Han China",
+      "country": "China",
+      "text": "The Taichu calendar fixed the average month at 29 and 43/81 days and introduced the 24 solar terms. It added 7 leap months in every 19 years. Chinese calendar months still start on the day of the new Moon and last 29 or 30 days.",
+      "why": "It shows how a lunisolar calendar keeps Moon months and solar seasons together.",
+      "box": "myths",
+      "sources": [
+        47,
+        9
+      ]
+    },
+    {
+      "year": 359,
+      "date": "358/359 CE (traditional)",
+      "era": "calendars",
+      "art": "candles",
+      "title": "Hillel II fixes the Hebrew calendar (traditional)",
+      "who": "Hillel II (attributed)",
+      "where": "Land of Israel",
+      "country": "Israel",
+      "text": "Months in the Hebrew calendar follow the Moon. Once they began with a sighting of the new crescent. Tradition says Hillel II set out a calculated calendar in 358/359 CE, with 7 leap months every 19 years. Historians debate how much was fixed then; the exact modern form came by about 922–924.",
+      "why": "It let communities far apart keep the same Moon-based festival dates without seeing the sky together.",
+      "box": "myths",
+      "sources": [
+        11,
+        12,
+        48
+      ]
+    },
+    {
+      "year": 499,
+      "date": "499 CE",
+      "era": "light",
+      "art": "quill",
+      "title": "Aryabhata: the Moon and planets shine by sunlight",
+      "who": "Aryabhata",
+      "where": "India",
+      "country": "India",
+      "text": "Aryabhata finished his book, the Aryabhatiya, in 499 CE, at age 23. In it he held that the Moon and planets shine by reflected sunlight. He also explained eclipses of the Sun and Moon correctly.",
+      "why": "It put the Moon's light on a physical footing in Indian astronomy.",
+      "box": "lit",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 622,
+      "date": "622 CE epoch; era adopted c. 638 CE",
+      "era": "calendars",
+      "art": "night",
+      "key": true,
+      "title": "The Hijri calendar follows the Moon alone",
+      "who": "Muslim community; era chosen under Caliph Umar",
+      "where": "Mecca and Medina",
+      "country": "Saudi Arabia",
+      "text": "The Islamic calendar counts years from the Hijra, the Prophet Muhammad's migration from Mecca to Medina in 622 CE. Caliph Umar adopted this era around 638 CE. Its 12 months follow the Moon alone, so a year has 354 or 355 days. Traditionally a month begins when the new crescent is seen after sunset.",
+      "why": "Because the year is about 11 days shorter than the solar year, months like Ramadan move through the seasons.",
+      "box": "myths",
+      "sources": [
+        13,
+        50
+      ]
+    },
+    {
+      "year": 997,
+      "date": "24 May 997",
+      "era": "calendars",
+      "art": "eclipse",
+      "title": "Al-Biruni uses the Moon as a shared clock",
+      "who": "Al-Biruni and Abu'l-Wafa",
+      "where": "Kath (Khwarazm) and Baghdad",
+      "country": "Uzbekistan and Iraq",
+      "text": "Al-Biruni timed a lunar eclipse at Kath while Abu'l-Wafa timed the same eclipse in Baghdad. Comparing their times gave the difference in longitude between the two cities. Al-Biruni also wrote on calendars and timekeeping.",
+      "why": "The Moon, seen at the same moment everywhere, helped map the Earth.",
+      "box": "",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1200,
+      "date": "c. 1200 CE (codex); the table may be older",
+      "era": "calendars",
+      "art": "word",
+      "title": "A Maya table of 405 lunar months",
+      "who": "Maya daykeepers",
+      "where": "Maya region",
+      "country": "Mesoamerica",
+      "text": "The Dresden Codex, a Maya book from around 1200 CE, has a table of 405 lunar months, or 11,960 days. That is exactly 46 rounds of the 260-day ritual calendar. A 2025 study argues it began as a general lunar calendar and was later used to warn of eclipses.",
+      "why": "It shows people in the Americas tracking the Moon's cycle with great care.",
+      "box": "myths",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1507,
+      "date": "c. 1504–1510",
+      "era": "light",
+      "art": "quill",
+      "key": true,
+      "title": "Leonardo explains the ghostly glow on the dark Moon",
+      "who": "Leonardo da Vinci",
+      "where": "Florence",
+      "country": "Italy",
+      "text": "In notebooks now called the Codex Leicester, Leonardo wrote that the faint glow on the dark part of a crescent Moon is sunlight reflected from Earth. He thought Earth's oceans did the reflecting. Today we know bright clouds reflect most of that light. He even used the effect to paint soft secondary light in portraits.",
+      "why": "Earthshine is the clearest everyday proof that the Moon has no light of its own.",
+      "box": "face",
+      "sources": [
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "year": 1609,
+      "date": "26 July 1609",
+      "era": "maps",
+      "art": "telescope",
+      "title": "Thomas Harriot draws the Moon through a telescope",
+      "who": "Thomas Harriot",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "Harriot sketched the Moon through his telescope on 26 July 1609. It is the first documented drawing of any sky object seen through a telescope. He later made more sketches and a Moon map, but never published them.",
+      "why": "The line between light and dark on his sketch is the edge of the sunlit half.",
+      "box": "lit",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1610,
+      "date": "1610",
+      "era": "maps",
+      "art": "telescope",
+      "key": true,
+      "title": "Galileo's Starry Messenger: mountains and earthshine",
+      "who": "Galileo Galilei",
+      "where": "Venice (where it was published)",
+      "country": "Italy",
+      "text": "Galileo's Sidereus Nuncius showed the Moon has mountains and valleys. His pictures were based on telescope sketches from late 1609. He also argued that the dark part's faint glow is sunlight reflected by Earth. He may have added that passage late, as it was contested.",
+      "why": "It turned the Moon from a perfect sphere into a rough world lit by the Sun and by Earth.",
+      "box": "face",
+      "sources": [
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "year": 1647,
+      "date": "1647",
+      "era": "maps",
+      "art": "plate",
+      "title": "Hevelius draws every phase in Selenographia",
+      "who": "Johannes Hevelius",
+      "where": "Gdańsk",
+      "country": "Poland",
+      "text": "Hevelius published Selenographia at his own expense. He drew the Moon on each day of one full cycle, dated each drawing, and engraved most plates himself. Three large maps showed the full Moon, a shadowed Moon, and his names, borrowed from Earth's geography.",
+      "why": "It was the first great atlas of the Moon and of how its look changes through the month.",
+      "box": "phases",
+      "sources": [
+        24,
+        25
+      ]
+    },
+    {
+      "year": 1648,
+      "date": "1632–1648 (attributed)",
+      "era": "maps",
+      "art": "orbit",
+      "title": "The Moon's wobble, libration, is noticed",
+      "who": "Galileo (latitude, attributed); Johannes Hevelius (longitude)",
+      "where": "Italy and Gdańsk",
+      "country": "Italy and Poland",
+      "text": "The Moon keeps one face to us, but it seems to rock a little. Galileo is sometimes credited with spotting the north-south rocking in 1632, though others may have seen it first. Hevelius found the east-west rocking in 1648. Over time this lets us see about 59% of the Moon.",
+      "why": "It explains why maps from Earth show a bit more than half the Moon.",
+      "box": "face",
+      "sources": [
+        51,
+        1
+      ]
+    },
+    {
+      "year": 1651,
+      "date": "1651",
+      "era": "maps",
+      "art": "compass",
+      "key": true,
+      "title": "Riccioli names the Moon",
+      "who": "Giovanni Battista Riccioli and Francesco Grimaldi",
+      "where": "Bologna",
+      "country": "Italy",
+      "text": "Riccioli's book Almagestum novum included a Moon map drawn by Grimaldi. Riccioli named craters after people, like Plato and Tycho. He named the dark plains after weather and moods, like the Sea of Tranquility. These names are the basis of the ones used today.",
+      "why": "Shared names let people everywhere talk about the same places on the Moon.",
+      "box": "",
+      "sources": [
+        26,
+        27
+      ]
+    },
+    {
+      "year": 1790,
+      "date": "late 18th century",
+      "era": "light",
+      "art": "candles",
+      "title": "Wang Zhenyi models an eclipse with a lamp and a mirror",
+      "who": "Wang Zhenyi",
+      "where": "Nanjing region",
+      "country": "China",
+      "text": "Wang Zhenyi used a round table as Earth, a crystal lamp as the Sun and a round mirror as the Moon. Moving them, she showed how a lunar eclipse happens. She wrote it up in The Explanation of a Lunar Eclipse.",
+      "why": "Her model separates two things people mix up: eclipses are Earth's shadow, phases are not.",
+      "box": "myths",
+      "sources": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 1913,
+      "date": "1913",
+      "era": "maps",
+      "art": "word",
+      "title": "Mary Blagg untangles the Moon's names",
+      "who": "Mary Adela Blagg",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "Different maps used different names for the same craters. In 1907 Mary Blagg was asked to compare them, and in 1913 she published a Collated List of Lunar Formations. In 1916 she became one of the first women elected to the Royal Astronomical Society.",
+      "why": "It was the groundwork for a single agreed map of the Moon.",
+      "box": "",
+      "sources": [
+        52,
+        30
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1935",
+      "era": "maps",
+      "art": "word",
+      "key": true,
+      "title": "Named Lunar Formations: one list for the world",
+      "who": "Mary Adela Blagg and Karl Müller, for the IAU",
+      "where": "London",
+      "country": "United Kingdom",
+      "text": "Blagg and Müller compiled Named Lunar Formations for the International Astronomical Union. It listed more than 6,100 formations. It was the first systematic list of lunar names and stayed the official reference for about 30 years.",
+      "why": "It gave astronomers, and later space agencies, one shared set of names.",
+      "box": "",
+      "sources": [
+        31,
+        30,
+        52
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "7 October 1959",
+      "era": "going",
+      "art": "rocket",
+      "key": true,
+      "title": "Luna 3 sees the far side",
+      "who": "Soviet space programme",
+      "where": "Lunar flyby, launched from Baikonur",
+      "country": "USSR",
+      "text": "Luna 3 launched on 4 October 1959. Three days later it took 29 photos of the side of the Moon that never faces Earth. The noisy pictures covered about 70% of the far side.",
+      "why": "For the first time, people saw the half of the Moon hidden by tidal locking.",
+      "box": "face",
+      "sources": [
+        0,
+        53
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "6 November 1960",
+      "era": "going",
+      "art": "plate",
+      "title": "The first atlas of the far side",
+      "who": "USSR Academy of Sciences",
+      "where": "Moscow",
+      "country": "USSR",
+      "text": "Using Luna 3's pictures, Soviet scientists published the first far side atlas, with about 500 features. New names included the Sea of Moscow. Craters on a 1961 globe honoured people such as Tsiolkovsky and Marie Curie.",
+      "why": "The hidden half of the Moon finally had a map and names.",
+      "box": "face",
+      "sources": [
+        53
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "20 July 1965",
+      "era": "going",
+      "art": "rocket",
+      "title": "Zond 3 photographs the rest of the far side",
+      "who": "Soviet space programme",
+      "where": "Lunar flyby",
+      "country": "USSR",
+      "text": "Zond 3 launched on 18 July 1965 and flew past the Moon two days later. Its photos covered the remaining 30% of the far side that Luna 3 had missed, and were of very good quality.",
+      "why": "Together the two probes showed the whole far side.",
+      "box": "face",
+      "sources": [
+        54
+      ]
+    },
+    {
+      "year": 1967,
+      "date": "1966–1967",
+      "era": "going",
+      "art": "window",
+      "title": "Five Lunar Orbiters photograph 99% of the Moon",
+      "who": "NASA",
+      "where": "Lunar orbit",
+      "country": "United States",
+      "text": "Five Lunar Orbiter craft flew between August 1966 and August 1967. The first three surveyed possible Apollo landing sites. Together they photographed 99% of the Moon. NASA later published the pictures in a 1970 book co-written by Farouk El-Baz.",
+      "why": "It was the first near-complete map of the whole Moon.",
+      "box": "",
+      "sources": [
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "24 December 1968",
+      "era": "going",
+      "art": "earth",
+      "key": true,
+      "title": "Apollo 8 and Earthrise",
+      "who": "Frank Borman, Jim Lovell and Bill Anders",
+      "where": "Lunar orbit",
+      "country": "United States",
+      "text": "Apollo 8 launched on 21 December 1968 and was NASA's first crewed mission to orbit the Moon. On 24 December, Bill Anders photographed Earth rising over the lunar horizon. The crew were the first people to see an Earthrise.",
+      "why": "From the Moon, Earth goes through phases too, lit by the same Sun.",
+      "box": "face",
+      "sources": [
+        35,
+        36
+      ]
+    },
+    {
+      "year": 1969,
+      "date": "20 July 1969",
+      "era": "going",
+      "art": "person",
+      "title": "Apollo 11 lands at Tranquility Base",
+      "who": "Neil Armstrong, Buzz Aldrin, Michael Collins; trajectory by Katherine Johnson",
+      "where": "Sea of Tranquility, the Moon",
+      "country": "United States",
+      "text": "Armstrong and Aldrin landed and spent about 22 hours on the Moon while Collins orbited. Their base was named after the plain Riccioli had called the Sea of Tranquility. Mathematician Katherine Johnson calculated the flight path to the Moon.",
+      "why": "People finally stood on the world they had watched change shape for thousands of years.",
+      "box": "",
+      "sources": [
+        37,
+        38,
+        27
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "1970",
+      "era": "going",
+      "art": "word",
+      "title": "Names for the newly seen Moon",
+      "who": "IAU committee led by Donald Menzel",
+      "where": "International Astronomical Union",
+      "country": "International",
+      "text": "Spacecraft had revealed thousands of new features. In 1970 an IAU committee led by Donald Menzel proposed names for features seen by Zond, Lunar Orbiter and Apollo cameras.",
+      "why": "The far side joined the shared map of the Moon.",
+      "box": "face",
+      "sources": [
+        31
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "3 January 2019",
+      "era": "going",
+      "art": "rocket",
+      "key": true,
+      "title": "Chang'e-4 lands on the far side",
+      "who": "China National Space Administration",
+      "where": "Von Kármán crater, South Pole-Aitken basin",
+      "country": "China",
+      "text": "Chang'e-4 made the first soft landing on the Moon's far side. It came down in Von Kármán crater. Because the far side never faces Earth, messages went through the Queqiao relay satellite, launched in May 2018.",
+      "why": "Tidal locking hides the far side from radio as well as from eyes, so landing there took a relay.",
+      "box": "face",
+      "sources": [
+        39,
+        40
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "23 August 2023",
+      "era": "going",
+      "art": "rocket",
+      "key": true,
+      "title": "Chandrayaan-3 lands near the south pole",
+      "who": "Indian Space Research Organisation (ISRO)",
+      "where": "Near the lunar south pole, about 69°S",
+      "country": "India",
+      "text": "ISRO's Vikram lander touched down at about 69 degrees south. It was the first soft landing near the Moon's south pole, and made India the fourth country to land on the Moon. The site is called Shiv Shakti Point.",
+      "why": "It opened a new, little-explored region of the Moon to close study.",
+      "box": "",
+      "sources": [
+        41,
+        42,
+        55
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First recorded claim that the Moon shines by reflected light",
+      "value": "5th century BCE",
+      "who": "Anaxagoras, Athens"
+    },
+    {
+      "label": "First documented telescope drawing of the Moon",
+      "value": "26 July 1609",
+      "who": "Thomas Harriot, England"
+    },
+    {
+      "label": "First photographs of the far side",
+      "value": "7 October 1959",
+      "who": "Luna 3, USSR"
+    },
+    {
+      "label": "First people to orbit the Moon and see an Earthrise",
+      "value": "24 December 1968",
+      "who": "Apollo 8 crew, United States"
+    },
+    {
+      "label": "First soft landing on the far side",
+      "value": "3 January 2019",
+      "who": "Chang'e-4, China"
+    },
+    {
+      "label": "First soft landing near the lunar south pole",
+      "value": "23 August 2023",
+      "who": "Chandrayaan-3, India"
+    }
+  ],
+  "people": [
+    {
+      "name": "Anaxagoras",
+      "life": "c. 499 – c. 428 BCE",
+      "role": "Philosopher",
+      "from": "Clazomenae (now Turkey), worked in Athens",
+      "note": "He made the first recorded claim that the Moon shines by reflected sunlight."
+    },
+    {
+      "name": "Lagadha",
+      "life": "",
+      "role": "Traditional author of the Vedanga Jyotisha",
+      "from": "India",
+      "note": "The text he is credited with splits the lunar month into 30 tithis."
+    },
+    {
+      "name": "Aryabhata",
+      "life": "born 476 CE",
+      "role": "Astronomer and mathematician",
+      "from": "India",
+      "note": "He held that the Moon and planets shine by reflected sunlight."
+    },
+    {
+      "name": "Al-Biruni",
+      "life": "973 – 1048",
+      "role": "Astronomer and scholar",
+      "from": "Khwarazm (now Uzbekistan)",
+      "note": "He timed lunar eclipses to measure longitude and wrote on calendars."
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "life": "",
+      "role": "Artist and engineer",
+      "from": "Italy",
+      "note": "He explained earthshine as sunlight reflected from Earth."
+    },
+    {
+      "name": "Thomas Harriot",
+      "life": "c. 1560 – 1621",
+      "role": "Mathematician and astronomer",
+      "from": "England",
+      "note": "He made the first documented telescope drawing of the Moon."
+    },
+    {
+      "name": "Galileo Galilei",
+      "life": "1564 – 1642",
+      "role": "Astronomer",
+      "from": "Italy",
+      "note": "He showed the Moon has mountains and argued its dark side is lit by Earth."
+    },
+    {
+      "name": "Johannes Hevelius",
+      "life": "1611 – 1697",
+      "role": "Astronomer and engraver",
+      "from": "Gdańsk (now Poland)",
+      "note": "He drew the Moon on every day of a full cycle."
+    },
+    {
+      "name": "Giovanni Battista Riccioli",
+      "life": "born 1598",
+      "role": "Jesuit astronomer",
+      "from": "Italy",
+      "note": "His 1651 names for lunar features are still the basis of those in use."
+    },
+    {
+      "name": "Wang Zhenyi",
+      "life": "1768 – 1797",
+      "role": "Astronomer and mathematician",
+      "from": "China",
+      "note": "She modelled a lunar eclipse with a lamp, a table and a mirror."
+    },
+    {
+      "name": "Mary Adela Blagg",
+      "life": "1858 – 1944",
+      "role": "Astronomer",
+      "from": "England",
+      "note": "She brought order to the Moon's names and co-wrote the IAU's 1935 list."
+    },
+    {
+      "name": "Katherine Johnson",
+      "life": "born 1918",
+      "role": "Mathematician",
+      "from": "United States",
+      "note": "She calculated the trajectory for Apollo 11's flight to the Moon."
+    }
+  ],
+  "series": [
+    {
+      "id": "farside",
+      "title": "How much of the Moon's far side had been photographed",
+      "unit": "percent",
+      "log": false,
+      "after": "going",
+      "caption": "No one saw the far side until 1959. Two Soviet flybys photographed all of it within six years.",
+      "points": [
+        {
+          "year": 1958,
+          "value": 0,
+          "label": "Before 1959: never seen"
+        },
+        {
+          "year": 1959,
+          "value": 70,
+          "label": "Luna 3: about 70%, blurry"
+        },
+        {
+          "year": 1965,
+          "value": 100,
+          "label": "Zond 3: the remaining 30%"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Because of libration, we see about 59% of the Moon's surface from Earth over time.",
+    "On the Moon's night side, Earth shines about 50 times brighter than a full Moon does for us.",
+    "Nineteen years hold almost exactly 235 lunar months, so phases return to the same dates.",
+    "The Islamic year is about 11 days shorter than the civil year, so its months drift through the seasons.",
+    "Chinese calendar months last 29 or 30 days, roughly the time from one new Moon to the next."
+  ],
+  "sources": [
+    {
+      "title": "Earth's Moon - Luna 3 (image catalog)",
+      "publisher": "NASA Space Science Data Coordinated Archive (NSSDCA)",
+      "url": "https://nssdc.gsfc.nasa.gov/imgcat/html/object_page/lu3_2.html"
+    },
+    {
+      "title": "Moon Wobble",
+      "publisher": "NASA Scientific Visualization Studio",
+      "url": "https://svs.gsfc.nasa.gov/10836"
+    },
+    {
+      "title": "Anaxagoras of Clazomenae",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Anaxagoras/"
+    },
+    {
+      "title": "Anaxagoras",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/anaxagoras/"
+    },
+    {
+      "title": "On the Heavens, Book II (trans. J. L. Stocks)",
+      "publisher": "The Internet Classics Archive, MIT",
+      "url": "http://classics.mit.edu/Aristotle/heavens.2.ii.html"
+    },
+    {
+      "title": "Nebra Sky Disc",
+      "publisher": "State Museum of Prehistory Halle (Landesmuseum für Vorgeschichte)",
+      "url": "https://www.landesmuseum-vorgeschichte.de/en/nebra-sky-disc.html"
+    },
+    {
+      "title": "The Sky Disc of Nebra",
+      "publisher": "Himmelsscheibe erleben (Nebra Sky Disc visitor sites)",
+      "url": "https://www.himmelsscheibe-erleben.de/en/ihr-besuch/translate-to-en-besucherinformation/die-himmelsscheibe-von-nebra"
+    },
+    {
+      "title": "Astronomical Diaries",
+      "publisher": "Livius.org (Jona Lendering)",
+      "url": "https://www.livius.org/articles/concept/astronomical-diaries/"
+    },
+    {
+      "title": "Meton (Dictionary of Greek and Roman Biography and Mythology, ed. W. Smith)",
+      "publisher": "Perseids Project, Tufts University",
+      "url": "https://cts.perseids.org/read/pdlrefwk/viaf88890045/003/perseus-eng1/M.meton_2"
+    },
+    {
+      "title": "What year is it today?",
+      "publisher": "Hong Kong Observatory",
+      "url": "https://www.hko.gov.hk/en/education/astronomy-and-time/astronomy/00506-what-year-is-it-today.html"
+    },
+    {
+      "title": "Vedanga Jyotisha",
+      "publisher": "Vedic Heritage Portal, Government of India",
+      "url": "https://vedicheritage.gov.in/?p=88"
+    },
+    {
+      "title": "The Jewish Calendar",
+      "publisher": "Astronomical Applications Department, U.S. Naval Observatory",
+      "url": "https://aa.usno.navy.mil/faq/jewish"
+    },
+    {
+      "title": "Our Calendar",
+      "publisher": "Chabad.org",
+      "url": "https://www.chabad.org/library/article_cdo/aid/526875/jewish/Our-Calendar.htm"
+    },
+    {
+      "title": "The Islamic Calendar",
+      "publisher": "Astronomical Applications Department, U.S. Naval Observatory",
+      "url": "https://aa.usno.navy.mil/faq/islamic"
+    },
+    {
+      "title": "Aryabhata I",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aryabhata_I/"
+    },
+    {
+      "title": "Abu Arrayhan Muhammad ibn Ahmad al-Biruni",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Biruni/"
+    },
+    {
+      "title": "The Ancient Maya Used the Dresden Codex to Predict Solar Eclipses With Impressive Accuracy",
+      "publisher": "Discover Magazine",
+      "url": "https://www.discovermagazine.com/the-ancient-maya-used-the-dresden-codex-to-predict-solar-eclipses-with-impressive-accuracy-48217"
+    },
+    {
+      "title": "The Da Vinci Glow (Science@NASA, by Tony Phillips)",
+      "publisher": "Phys.org, republishing Science@NASA",
+      "url": "https://phys.org/news/2005-10-da-vinci.html"
+    },
+    {
+      "title": "Painting informed by science (Water as Microscope of Nature: the Codex Leicester)",
+      "publisher": "Museo Galileo, Florence",
+      "url": "https://mostre.museogalileo.it/codiceleicester/en/history-of-the-earth/58-painting-informed-by-science"
+    },
+    {
+      "title": "Introduction (Water as Microscope of Nature: the Codex Leicester)",
+      "publisher": "Museo Galileo, Florence",
+      "url": "https://mostre.museogalileo.it/codiceleicester/en/introduction"
+    },
+    {
+      "title": "Thomas Harriot (Scientist of the Day)",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/thomas-harriot/"
+    },
+    {
+      "title": "Galileo Galilei",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Galileo/"
+    },
+    {
+      "title": "The Face of the Moon: Galileo to Apollo, 1610-1700",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/experience/digital-exhibitions/the-face-of-the-moon/b-1610-1700/"
+    },
+    {
+      "title": "On the Earthshine depicted in Galileo's watercolors of the Moon (P. Molaro, Galileana X, 2013)",
+      "publisher": "arXiv, Cornell University",
+      "url": "https://arxiv.org/abs/1707.05314"
+    },
+    {
+      "title": "Johannes Hevelius (Scientist of the Day)",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/johannes-hevelius-2/"
+    },
+    {
+      "title": "The Face of the Moon: Hevelius, Johannes",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/experience/digital-exhibitions/the-face-of-the-moon/b-1610-1700/03-hevelius-johannes/"
+    },
+    {
+      "title": "The Face of the Moon: Riccioli, Giovanni Battista",
+      "publisher": "Linda Hall Library",
+      "url": "https://lindahall.org/experience/digital-exhibitions/the-face-of-the-moon/b-1610-1700/05-riccioli-giovanni-battista"
+    },
+    {
+      "title": "Giovanni Battista Riccioli (Scientist of the Day)",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/giovanni-battista-riccioli"
+    },
+    {
+      "title": "Zhenyi Wang",
+      "publisher": "Scientific Women",
+      "url": "https://scientificwomen.net/women/zhenyi-wang-98"
+    },
+    {
+      "title": "Wang Zhenyi",
+      "publisher": "The Mirror blog, Wellesley College",
+      "url": "https://blogs.wellesley.edu/mirror/?p=534"
+    },
+    {
+      "title": "Blagg and Müller",
+      "publisher": "The Moon (the-moon.us wiki, ALPO-affiliated)",
+      "url": "https://the-moon.us/wiki/Blagg_and_M%C3%BCller"
+    },
+    {
+      "title": "History of planetary nomenclature",
+      "publisher": "Gazetteer of Planetary Nomenclature, USGS / IAU",
+      "url": "https://planetarynames.wr.usgs.gov/Page/History"
+    },
+    {
+      "title": "Lunar Orbiters program",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/mission/lunar-orbiters-program/"
+    },
+    {
+      "title": "Lunar Orbiter 4",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/mission/lunar-orbiter-4/"
+    },
+    {
+      "title": "The Face of the Moon: Kosofsky, L. J. and El-Baz, Farouk",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/experience/digital-exhibitions/the-face-of-the-moon/e-1900-1978/37-kosofsky-l-j-and-el-baz-farouk/"
+    },
+    {
+      "title": "Apollo 8",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/mission/apollo-8/"
+    },
+    {
+      "title": "Apollo 8: Earthrise",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/image-article/apollo-8-earthrise/"
+    },
+    {
+      "title": "Apollo 11",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/mission/apollo-11/"
+    },
+    {
+      "title": "Katherine G. Johnson",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/feature/katherine-g-johnson"
+    },
+    {
+      "title": "Chinese researchers reconstruct Chang'e-4 landing on far side of the moon",
+      "publisher": "Chinese Academy of Sciences",
+      "url": "https://english.cas.cn/newsroom/news/201909/t20190929_219570.shtml"
+    },
+    {
+      "title": "China successfully lands Chang'e-4 on far side of Moon",
+      "publisher": "The Planetary Society",
+      "url": "https://www.planetary.org/articles/change4-success"
+    },
+    {
+      "title": "Chandrayaan-3",
+      "publisher": "Indian Space Research Organisation (ISRO)",
+      "url": "https://www.isro.gov.in/Chandrayaan3.html"
+    },
+    {
+      "title": "Chandrayaan-3 details",
+      "publisher": "Indian Space Research Organisation (ISRO)",
+      "url": "https://www.isro.gov.in/Chandrayaan3_Details.html"
+    },
+    {
+      "title": "An Upper Palaeolithic Proto-writing System and Phenological Calendar (Bacon et al., doi:10.1017/S0959774322000415)",
+      "publisher": "Cambridge Archaeological Journal, Cambridge University Press",
+      "url": "https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/an-upper-palaeolithic-protowriting-system-and-phenological-calendar/6F2AD8A705888F2226FE857840B4FE19"
+    },
+    {
+      "title": "Evaluating the evidence for lunar calendars in Upper Palaeolithic parietal art (Nowell, Bahn and Le Quellec, 2024)",
+      "publisher": "Cambridge Archaeological Journal, via University of Victoria repository",
+      "url": "https://dspace.library.uvic.ca/items/27fd4aaf-32ca-4711-b2d6-6423d9cfa051"
+    },
+    {
+      "title": "Ishango bone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ishango_bone"
+    },
+    {
+      "title": "Metonic cycle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Metonic_cycle"
+    },
+    {
+      "title": "Chinese calendar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chinese_calendar"
+    },
+    {
+      "title": "Hillel II",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hillel_II"
+    },
+    {
+      "title": "Vedanga Jyotisha",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vedanga_Jyotisha"
+    },
+    {
+      "title": "Islamic calendar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Islamic_calendar"
+    },
+    {
+      "title": "Libration",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Libration"
+    },
+    {
+      "title": "Mary Adela Blagg",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mary_Adela_Blagg"
+    },
+    {
+      "title": "Luna 3",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Luna_3"
+    },
+    {
+      "title": "Zond 3",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zond_3"
+    },
+    {
+      "title": "Chandrayaan-3",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chandrayaan-3"
+    }
+  ]
+}
